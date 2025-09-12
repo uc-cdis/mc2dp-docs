@@ -1,0 +1,64 @@
+site_name: Murtha Cancer Center Data Platform Documentation
+site_url: https://mc2dp.data-commons.org/
+repo_url: https://github.com/uc-cdis/mc2dp-documentation
+nav:
+  - Return to MC2DP Platform: https://mc2dp.data-commons.org/
+  - Home: 01-home.md
+  - How to Get Started:
+    - Quickstart - MC2DP Overview: 04-MC2DP_overview.md
+    - Login Page: 05-loginoverview.md
+    - Exploration Page: 06-exploration_page.md
+    - Mesh Metadata Page: 07-mesh_metadata_page.md
+    - Data Connections: 08-data_connections_page.md
+    - Analysis Page: 09-analysis_page.md
+    - Cohort Discovery Page: 10-discovery_page.md
+    - Data Library Page: 11-data_library_page.md
+    - Workspaces Page: 12-workspace_page.md
+    - Profile Page: 13-profile_page.md
+  - Workspace User Guide: 
+    - Getting Started in Workspace: 14-workspace_start.md
+    - Downloading Data Files: 15-workspace_downloading_data.md
+    - Workspace FAQ: 16-workspace_faq.md
+  - FAIR Data: 02-fair_data.md
+  - Downloading Data Files: 03-downloading_data_files.md
+  - Contact: 17-contact.md
+
+theme:
+  favicon: img/favicon.ico
+  logo: img/mc2dp-logo.png
+  name: material
+
+  palette:
+
+   # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: brh_platform
+      toggle:
+        icon: material/eye
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: brh_platform_dark
+      toggle:
+        icon: material/eye-outline
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.tracking
+extra_css:
+  - stylesheets/extra.css
+use_directory_urls: true
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: True
+      baselevel: 1
+  - pymdownx.superfences
+  - pymdownx.details
+plugins:
+  - search
+  - mkdocs-video:
+      is_video: True
