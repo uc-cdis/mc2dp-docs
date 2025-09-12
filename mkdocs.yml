@@ -3,25 +3,25 @@ site_url: https://mc2dp.data-commons.org/
 repo_url: https://github.com/uc-cdis/mc2dp-documentation
 nav:
   - Return to MC2DP Platform: https://mc2dp.data-commons.org/
-  - Home: 01-home.md
+  - Home: index.md
   - How to Get Started:
-    - Quickstart - MC2DP Overview: 04-MC2DP_overview.md
-    - Login Page: 05-loginoverview.md
-    - Exploration Page: 06-exploration_page.md
-    - Mesh Metadata Page: 07-mesh_metadata_page.md
-    - Data Connections: 08-data_connections_page.md
-    - Analysis Page: 09-analysis_page.md
-    - Cohort Discovery Page: 10-discovery_page.md
-    - Data Library Page: 11-data_library_page.md
-    - Workspaces Page: 12-workspace_page.md
-    - Profile Page: 13-profile_page.md
+    - Quickstart - MC2DP Overview: MC2DP_overview.md
+    - Login Page: loginoverview.md
+    - Exploration Page: exploration_page.md
+    - Mesh Metadata Page: mesh_metadata_page.md
+    - Data Connections: data_connections_page.md
+    - Analysis Page: analysis_page.md
+    - Cohort Discovery Page: discovery_page.md
+    - Data Library Page: data_library_page.md
+    - Workspaces Page: workspace_page.md
+    - Profile Page: profile_page.md
   - Workspace User Guide: 
-    - Getting Started in Workspace: 14-workspace_start.md
-    - Downloading Data Files: 15-workspace_downloading_data.md
-    - Workspace FAQ: 16-workspace_faq.md
-  - FAIR Data: 02-fair_data.md
-  - Downloading Data Files: 03-downloading_data_files.md
-  - Contact: 17-contact.md
+    - Getting Started in Workspace: workspace_start.md
+    - Downloading Data Files: workspace_downloading_data.md
+    - Workspace FAQ: workspace_faq.md
+  - FAIR Data: fair_data.md
+  - Downloading Data Files: downloading_data_files.md
+  - Contact: contact.md
 
 theme:
   favicon: img/favicon.ico
