@@ -1,17 +1,17 @@
-site_name: Murtha Cancer Center Data Platform Documentation
+site_name: MC2DP Documentation
 site_url: https://mc2dp.data-commons.org/
 repo_url: https://github.com/uc-cdis/mc2dp-documentation
 nav:
   - Return to MC2DP Platform: https://mc2dp.data-commons.org/
   - Home: index.md
   - How to Get Started:
-    - Quickstart - MC2DP Overview: MC2DP_overview.md
+    - Quickstart - MC2DP Overview: index.md
     - Login Page: loginoverview.md
     - Exploration Page: exploration_page.md
     - Mesh Metadata Page: mesh_metadata_page.md
     - Data Connections: data_connections_page.md
     - Analysis Page: analysis_page.md
-    - Cohort Discovery Page: discovery_page.md
+    - Cohort Discovery Page: cohort_discovery_page.md
     - Data Library Page: data_library_page.md
     - Workspaces Page: workspace_page.md
     - Profile Page: profile_page.md

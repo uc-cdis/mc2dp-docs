@@ -1,2 +1,2 @@
-# **Profile Page**
+# **Getting Started in Workspaces**
 

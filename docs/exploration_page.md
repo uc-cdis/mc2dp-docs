@@ -1,2 +1,2 @@
-# **Discovery Page**
+# **Exploration Page**
 
