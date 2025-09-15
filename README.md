@@ -1,2 +1,3 @@
-# docs-template
-This is intended to be a template repository to make it easy to create new Gen3 project documentation
+# Readme
+
+This is the repo containing the official documentation for The Murtha Cancer Center Data Platform (MC2DP) built on [Mkdocs documentation](https://www.mkdocs.org/)
