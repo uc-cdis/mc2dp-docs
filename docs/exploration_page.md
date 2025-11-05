@@ -4,10 +4,17 @@ The primary tool for exploring data within MC2DP is the Exploration Page, which 
 
 [![Exploration Page Intro][img-exploration_page_intro]](https://mc2dp.data-commons.org/Explorer)
 
-The Exploration page is derived from a series of Elastic Search Indicies that enables a performant search and filter of all MC2DP metadata. Users are able to build cohorts with 
+The Exploration page is derived from a series of Elastic Search Indicies that enables a performant search and filter of all MC2DP metadata. Data cards display dynamic visual summaries of important dataset feature and the main data table below displays the available metadata records based on current filter selections. 
+
+Users are able to build and save cohorts presented in the Explorer with the Cohort Selector tool. 
 
 [![Exploration Page Cohort Builder][img-exploration_cohort_builder]](https://mc2dp.data-commons.org/Explorer)
 
+### Cohort Selector in the Exploration Page
+
+To build a cohort in the Exploration page, first create or select a cohort in the selection tool section.
+
+Filters on the left control for several data attributes and update the main data displayed in the charts and tables as well as updates the cohort you're building.
 
 <!-- Links and Images -->
 [mc2dp-Platform]: https://mc2dp.data-commons.org/
