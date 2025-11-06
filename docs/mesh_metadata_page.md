@@ -1,6 +1,6 @@
 # **Mesh Metadata Page**
 
-The Mesh Metadata Page provides users a summary view of the metadata available in MC2DP.
+The Mesh Metadata Page provides users the minimal metadata required via a summary of the metadata available in MC2DP.
 
 [![Mesh Metadata Intro][img-mesh_metadata_intro]](https://mc2dp.data-commons.org/app/MetadataDictionary)
 

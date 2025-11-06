@@ -16,6 +16,10 @@ To build a cohort in the Exploration page, first create or select a cohort in th
 
 Filters on the left control for several data attributes and update the main data displayed in the charts and tables as well as updates the cohort you're building.
 
+The main table displays a sample of the data being selected.
+
+[![Exploration Page Main Table][img-exploration_main_table]](https://mc2dp.data-commons.org/Explorer)
+
 <!-- Links and Images -->
 [mc2dp-Platform]: https://mc2dp.data-commons.org/
 [Gen3.org]: https://gen3.org/
@@ -23,3 +27,4 @@ Filters on the left control for several data attributes and update the main data
 [img-gen3-logo]: ./img/gen3blue.png
 [img-exploration_page_intro]: ./img/exploration_page_intro.png
 [img-exploration_cohort_builder]: ./img/exploration_cohort_builder.png
+[img-exploration_main_table]: /img/exploration_main_table.png
