@@ -19,7 +19,7 @@ MC2DP is powered by the open-source software [“Gen3”](https://ctds.uchicago.
 [![Gen3 Logo][img-gen3-logo]{: .center-img style="height:50px"}](https://ctds.uchicago.edu/gen3)
 
 >MC2DP was created by and is actively developed at the
->University of Chicago’s Center for Translational Data Science (CTDS) and the Open Commons Consotrium (OCC)
+>University of Chicago’s Center for Translational Data Science (CTDS) and the Open Commons Consortium (OCC)
 >with the aim of creating interoperable cloud-based
 >data resources for the scientific research community.
 
