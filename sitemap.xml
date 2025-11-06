@@ -2,82 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mc2dp.data-commons.org/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/analysis_page/</loc>
-         <lastmod>2025-10-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mc2dp.data-commons.org/cohort_discovery_page/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/contact/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/data_connections_page/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/data_library_page/</loc>
-         <lastmod>2025-10-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mc2dp.data-commons.org/downloading_data_files/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/exploration_page/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/fair_data/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/loginoverview/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/mesh_metadata_page/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/profile_page/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mc2dp.data-commons.org/workspace_downloading_data/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <loc>https://mc2dp.data-commons.org/security_and_downloading_results/</loc>
+         <lastmod>2025-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mc2dp.data-commons.org/workspace_data_security/</loc>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/workspace_faq/</loc>
-         <lastmod>2025-10-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mc2dp.data-commons.org/workspace_page/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mc2dp.data-commons.org/workspace_start/</loc>
-         <lastmod>2025-10-06</lastmod>
+         <lastmod>2025-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
