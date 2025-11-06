@@ -11,16 +11,15 @@ nav:
     - Mesh Metadata Page: mesh_metadata_page.md
     - Data Connections: data_connections_page.md
     - Analysis Page: analysis_page.md
-    - Cohort Discovery Page: cohort_discovery_page.md
     - Data Library Page: data_library_page.md
     - Workspaces Page: workspace_page.md
     - Profile Page: profile_page.md
   - Workspace User Guide: 
     - Getting Started in Workspace: workspace_start.md
-    - Downloading Data Files: workspace_downloading_data.md
+    - Data Security and Downloading Results: workspace_data_seurity.md
     - Workspace FAQ: workspace_faq.md
   - FAIR Data: fair_data.md
-  - Downloading Data Files: downloading_data_files.md
+  - Security and Downloading Results: security_and_downloading_results.md
   - Contact: contact.md
 
 theme:
