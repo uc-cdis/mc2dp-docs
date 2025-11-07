@@ -5,7 +5,3 @@ MC2DP securely exposes study metadata and data files stored on multiple External
 Data is not directly located in MC2DP, so any raw data accessed in MC2DP is in fact accessed from the associated data resource.
 
 <!-- Links and Images -->
-[BRH Platform]: https://brh.data-commons.org/
-[Gen3.org]: https://gen3.org/
-[img BRH logo]: ./img/brh-logo.png
-[img Gen3 logo]: ./img/gen3blue.png
