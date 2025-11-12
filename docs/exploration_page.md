@@ -27,4 +27,4 @@ The main table displays a sample of the data being selected.
 [img-gen3-logo]: ./img/gen3blue.png
 [img-exploration_page_intro]: ./img/exploration_page_intro.png
 [img-exploration_cohort_builder]: ./img/exploration_cohort_builder.png
-[img-exploration_main_table]: /img/exploration_main_table.png
+[img-exploration_main_table]: ./img/exploration_main_table.png
