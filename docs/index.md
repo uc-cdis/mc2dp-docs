@@ -14,9 +14,9 @@ Integrate federal scientific platforms with public-private innovators revealing 
 - Integrates multiple data commons and repositories, enabling seamless data connectivity and interoperability between various data sources.
 - Represents a dynamic Data Ecosystem that aggregates and hosts metadata from multiple resources to make data discovery and access easy for users.
 
-MC2DP is powered by the open-source software [“Gen3”](https://ctds.uchicago.edu/gen3).
+MC2DP is powered by the open-source software [“Gen3”](https://gen3.org).
 
-[![Gen3 Logo][img-gen3-logo]{: .center-img style="height:50px"}](https://ctds.uchicago.edu/gen3)
+[![Gen3 Logo][img-gen3-logo]{: .center-img style="height:50px"}](https://gen3.org)
 
 >MC2DP was created by and is actively developed at the
 >University of Chicago’s Center for Translational Data Science (CTDS) and the Open Commons Consortium (OCC)
