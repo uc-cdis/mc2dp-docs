@@ -7,6 +7,7 @@ nav:
   - How to Get Started:
     - Quickstart - MC2DP Overview: index.md
     - Login Page: loginoverview.md
+    - Demonstration Video: demo_video.md
     - Exploration Page: exploration_page.md
     - Mesh Metadata Page: mesh_metadata_page.md
     - Data Connections: data_connections_page.md
